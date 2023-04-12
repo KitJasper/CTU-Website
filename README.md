@@ -1,3 +1,3 @@
-# Research-Website
+CTU-Website
 otin
 
